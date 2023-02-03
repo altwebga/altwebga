@@ -18,4 +18,4 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### Стистика
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?altwebga=anuraghazra&show_icons=true&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?altwebga=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)

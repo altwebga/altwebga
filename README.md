@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="https://seomix.ru/" target="_blank">Константин</a> 
 <img src="https://github.com/altwebga/altwebga/raw/main/img/Hi.gif" height="32"/></h1>
-<h3 align="center">Я Frontend-разработчик со страстью к созданию красивых и функциональных приложений</h3> 
+<h3 align="center">Я Fullstack-разработчик со страстью к созданию красивых и функциональных приложений</h3> 
 
 Владею HTML5, CSS3, TypeScript и популярными фреймворками на основе React.js, такими как React Native и Next.js. Пытаюсь не просто решить задачу, а прийти к аккуратному и лаконичному решению. Больше 10 лет разрабатываю сайты на WordPress в том числе c использованием его как Headless CMS (GraphQL, REST API).
 
